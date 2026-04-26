@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+requests
+cloudscraper
+beautifulsoup4
+Telebot
+Flask
+faker
+user_agent
