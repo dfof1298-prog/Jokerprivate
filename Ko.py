@@ -527,7 +527,7 @@ def start_checker(chat_id, combo_lines, gateway_name, initial_message_id):
         edit_telegram(chat_id, initial_message_id, f"<b>Gateway:</b> {GATEWAY_DISPLAY}\n<b>By:</b> {BOT_SIGN}", buttons)
         
         # التأخير 20-30 ثانية (الأمان)
-        time.sleep(random.uniform(20, 30))
+        time.sleep(random.uniform(15,18))
     
     final_msg = (
         f"<b>🏁 Scan Finished!</b>\n\n"
