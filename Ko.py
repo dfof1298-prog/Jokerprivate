@@ -6,7 +6,7 @@ import string
 BOT_TOKEN = "8738144105:AAHtbvy_e88a3fBUCWcJxpZ4q29uj_Noqvo"
 ADMIN_ID = 1093032296  # غير ده بإيديك انت من @userinfobot
 active_scans = {}
-MAX_CARDS_PER_USER = 5000
+MAX_CARDS_PER_USER = 1000
 
 # ==================== الأسماء المزخرفة ====================
 GATEWAY_DISPLAY = "𝚙𝚊𝚢𝚙𝚊𝚕 𝚌𝚞𝚜𝚝𝚘𝚖 𝚌𝚑𝚊𝚛𝚐𝚎 𝟷$"
